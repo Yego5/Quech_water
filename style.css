@@ -1,0 +1,31 @@
+body{
+  background: url(images/bg1.png);
+  height: 90vh;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  
+}
+.navbar nav{
+  margin: 10px;
+  align-items: center;
+  padding: 30px;
+  direction: inherit;
+  }
+  button{
+    background-origin: padding-box;
+    border: 3px;
+    align-items: end;
+  }
+.p{
+position: absolute;
+width: 522px;
+height: 288px;
+left: 862px;
+top: 185px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 150%;
+}
